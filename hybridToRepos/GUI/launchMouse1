@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd /home/prospectif/hybrid-system/mouseReader
+sudo chmod o+r /dev/input/event10
+sudo ./readMouse 
+

@@ -1,0 +1,3 @@
+#!/bin/bash
+
+killall pdextended cricket_sound.pd

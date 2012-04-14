@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /home/prospectif/hybrid-system/ogre_src_v1-7-3/cricketTest/dist/bin
+./OgreApp | tee >(pdsend 1236 127.0.0.1) > C1_A_T1.txt

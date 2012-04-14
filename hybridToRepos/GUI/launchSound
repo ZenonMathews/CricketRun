@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd /home/prospectif/hybrid-system/auditory
+
+pdextended cricket_sound.pd
+

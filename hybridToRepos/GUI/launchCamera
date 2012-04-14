@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd /home/prospectif/hybrid-system/vision/build
+./red_object_tracking
